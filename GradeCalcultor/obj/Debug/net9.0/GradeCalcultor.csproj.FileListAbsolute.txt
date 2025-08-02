@@ -1,0 +1,15 @@
+C:\Users\Hp\dcit318-assignment1-11297426\GradeCalcultor\bin\Debug\net9.0\GradeCalcultor.exe
+C:\Users\Hp\dcit318-assignment1-11297426\GradeCalcultor\bin\Debug\net9.0\GradeCalcultor.deps.json
+C:\Users\Hp\dcit318-assignment1-11297426\GradeCalcultor\bin\Debug\net9.0\GradeCalcultor.runtimeconfig.json
+C:\Users\Hp\dcit318-assignment1-11297426\GradeCalcultor\bin\Debug\net9.0\GradeCalcultor.dll
+C:\Users\Hp\dcit318-assignment1-11297426\GradeCalcultor\bin\Debug\net9.0\GradeCalcultor.pdb
+C:\Users\Hp\dcit318-assignment1-11297426\GradeCalcultor\obj\Debug\net9.0\GradeCalcultor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\dcit318-assignment1-11297426\GradeCalcultor\obj\Debug\net9.0\GradeCalcultor.AssemblyInfoInputs.cache
+C:\Users\Hp\dcit318-assignment1-11297426\GradeCalcultor\obj\Debug\net9.0\GradeCalcultor.AssemblyInfo.cs
+C:\Users\Hp\dcit318-assignment1-11297426\GradeCalcultor\obj\Debug\net9.0\GradeCalcultor.csproj.CoreCompileInputs.cache
+C:\Users\Hp\dcit318-assignment1-11297426\GradeCalcultor\obj\Debug\net9.0\GradeCalcultor.sourcelink.json
+C:\Users\Hp\dcit318-assignment1-11297426\GradeCalcultor\obj\Debug\net9.0\GradeCalcultor.dll
+C:\Users\Hp\dcit318-assignment1-11297426\GradeCalcultor\obj\Debug\net9.0\refint\GradeCalcultor.dll
+C:\Users\Hp\dcit318-assignment1-11297426\GradeCalcultor\obj\Debug\net9.0\GradeCalcultor.pdb
+C:\Users\Hp\dcit318-assignment1-11297426\GradeCalcultor\obj\Debug\net9.0\GradeCalcultor.genruntimeconfig.cache
+C:\Users\Hp\dcit318-assignment1-11297426\GradeCalcultor\obj\Debug\net9.0\ref\GradeCalcultor.dll
